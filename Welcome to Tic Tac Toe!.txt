@@ -1,0 +1,105 @@
+Welcome to Tic Tac Toe! 
+Player 1, Do you want to be 'X' or 'O': x
+Player 2 will be going first
+Ready to play? Y or N: Y
+
+   |   |
+-----------
+   |   |
+-----------
+   |   |
+
+
+Enter the position (1-9): 1
+
+   |   |
+-----------
+   |   |
+-----------
+ O |   |
+
+
+   |   |
+-----------
+   |   |
+-----------
+ O |   |
+
+
+Enter the position (1-9): 2
+
+   |   |
+-----------
+   |   |
+-----------
+ O | X |
+
+
+   |   |
+-----------
+   |   |
+-----------
+ O | X |
+
+Enter the position (1-9): 3
+
+   |   |
+-----------
+   |   |
+-----------
+ O | X | O
+
+
+   |   |
+-----------
+   |   |
+-----------
+ O | X | O
+
+Enter the position (1-9): 5
+
+   |   |
+-----------
+   | X |
+-----------
+ O | X | O
+
+
+   |   |
+-----------
+   | X |
+-----------
+ O | X | O
+
+Enter the position (1-9): 6
+
+   |   |
+-----------
+   | X | O
+-----------
+ O | X | O
+
+
+   |   |
+-----------
+   | X | O
+-----------
+ O | X | O
+
+Enter the position (1-9): 8
+
+   | X |
+-----------
+   | X | O
+-----------
+ O | X | O
+
+
+   | X |
+-----------
+   | X | O
+-----------
+ O | X | O
+
+Player 1 has won the game!
+Play Again? Y or N: N 
