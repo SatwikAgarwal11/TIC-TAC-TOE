@@ -8,3 +8,15 @@ This code also contains the process of 2 Players, the system chooses which playe
 This game like the normal one can be played between 2 users.
 
 Thus, making it an enjoyable code.
+
+  /t|       |
+ X  |   O   |  X
+    |       |
+------------------
+    |       |
+    |       |
+    |       |
+------------------
+    |       |
+    |       |
+    |       |
