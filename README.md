@@ -9,6 +9,7 @@ This game like the normal one can be played between 2 users.
 
 Thus, making it an enjoyable code.
 
+--------------
 ⭕ | ❌ | ⭕
 --------------
 ❌ | ⭕ | ⭕
